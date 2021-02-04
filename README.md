@@ -15,4 +15,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-![Anson's gitHub stats](https://github-readme-stats.vercel.app/api?username=anson09&count_private=true&show_icons=true&theme=nord)]
+![Anson's gitHub stats](https://github-readme-stats.vercel.app/api?username=anson09&count_private=true&show_icons=true&theme=nord&hide_border=true)]
